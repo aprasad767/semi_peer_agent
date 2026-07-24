@@ -1,0 +1,38 @@
+[
+    {
+        "Ticker":"INTC",
+        "Form":"10-K (Annual)",
+        "Filing Date":1769126400000,
+        "Accession No":"0000050863-26-000011"
+    },
+    {
+        "Ticker":"INTC",
+        "Form":"10-Q (Quarterly)",
+        "Filing Date":1776988800000,
+        "Accession No":"0000050863-26-000079"
+    },
+    {
+        "Ticker":"AMD",
+        "Form":"10-K (Annual)",
+        "Filing Date":1770163200000,
+        "Accession No":"0000002488-26-000021"
+    },
+    {
+        "Ticker":"AMD",
+        "Form":"10-Q (Quarterly)",
+        "Filing Date":1778025600000,
+        "Accession No":"0000002488-26-000076"
+    },
+    {
+        "Ticker":"NVDA",
+        "Form":"10-K (Annual)",
+        "Filing Date":1771977600000,
+        "Accession No":"0001045810-26-000021"
+    },
+    {
+        "Ticker":"NVDA",
+        "Form":"10-Q (Quarterly)",
+        "Filing Date":1779235200000,
+        "Accession No":"0001045810-26-000052"
+    }
+]
